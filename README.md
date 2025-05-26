@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![Contract Screenshot](./newcont.png)
+![Contract Screenshot](./utils/newcont.png)
 _Contract verified on Block Explorer_
 
 **Contract Address:** `[0xea1d24996dC82DD1DC25460090df048Fb51E26bD]`
