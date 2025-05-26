@@ -47,6 +47,7 @@ This contract implements a simple counter with the following capabilities:
 
 **Built with ❤️ using Solidity**
 
-[Contract Source Code]([https://github.com/srijan399/test-contract-core]) • [Block Explorer]([https://scan.test2.btcs.network/address/0xea1d24996dC82DD1DC25460090df048Fb51E26bD])
+[Contract Source Code](https://github.com/srijan399/test-contract-core) • [Block Explorer](https://scan.test2.btcs.network/address/0xea1d24996dC82DD1DC25460090df048Fb51E26bD)
+
 
 </div>
